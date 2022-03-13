@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Menu-3-opciones": "github:jasbeem/menu-3-opciones#523ba52b0647da0c3f23b8cbc3bd08851b178787"
     },
     "files": [
         "main.blocks",
